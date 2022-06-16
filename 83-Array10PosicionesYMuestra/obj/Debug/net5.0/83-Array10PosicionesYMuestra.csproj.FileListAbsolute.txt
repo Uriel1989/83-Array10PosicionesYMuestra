@@ -1,0 +1,15 @@
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\83-Array10PosicionesYMuestra\bin\Debug\net5.0\83-Array10PosicionesYMuestra.exe
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\83-Array10PosicionesYMuestra\bin\Debug\net5.0\83-Array10PosicionesYMuestra.deps.json
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\83-Array10PosicionesYMuestra\bin\Debug\net5.0\83-Array10PosicionesYMuestra.runtimeconfig.json
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\83-Array10PosicionesYMuestra\bin\Debug\net5.0\83-Array10PosicionesYMuestra.runtimeconfig.dev.json
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\83-Array10PosicionesYMuestra\bin\Debug\net5.0\83-Array10PosicionesYMuestra.dll
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\83-Array10PosicionesYMuestra\bin\Debug\net5.0\ref\83-Array10PosicionesYMuestra.dll
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\83-Array10PosicionesYMuestra\bin\Debug\net5.0\83-Array10PosicionesYMuestra.pdb
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\83-Array10PosicionesYMuestra\obj\Debug\net5.0\83-Array10PosicionesYMuestra.GeneratedMSBuildEditorConfig.editorconfig
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\83-Array10PosicionesYMuestra\obj\Debug\net5.0\83-Array10PosicionesYMuestra.AssemblyInfoInputs.cache
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\83-Array10PosicionesYMuestra\obj\Debug\net5.0\83-Array10PosicionesYMuestra.AssemblyInfo.cs
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\83-Array10PosicionesYMuestra\obj\Debug\net5.0\83-Array10PosicionesYMuestra.csproj.CoreCompileInputs.cache
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\83-Array10PosicionesYMuestra\obj\Debug\net5.0\83-Array10PosicionesYMuestra.dll
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\83-Array10PosicionesYMuestra\obj\Debug\net5.0\ref\83-Array10PosicionesYMuestra.dll
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\83-Array10PosicionesYMuestra\obj\Debug\net5.0\83-Array10PosicionesYMuestra.pdb
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\83-Array10PosicionesYMuestra\obj\Debug\net5.0\83-Array10PosicionesYMuestra.genruntimeconfig.cache
